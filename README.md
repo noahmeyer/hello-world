@@ -1,3 +1,3 @@
 # hello-world
 sample repository for learning github
-my name is noah.
+my name is noah.d
